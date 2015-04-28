@@ -3,7 +3,7 @@
 void main()
 {
 	float salary;
-	printf(" What is your salary : ");
+	printf(" What is your salary2 : ");
 	scanf("%f" , &salary);
-	pritnf("\n");
+	pritnf("2\n");
 }
